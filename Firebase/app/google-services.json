@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "997525941447",
+    "firebase_url": "https://marioclase2.firebaseio.com",
+    "project_id": "marioclase2",
+    "storage_bucket": "marioclase2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997525941447:android:fb11a3272af6885f",
+        "android_client_info": {
+          "package_name": "com.example.salalinux.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997525941447-cu9naq18ksjp2a4hdetpqbhqb61k3cm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCuRqFjkBHQzFXfMCLwvlD-Vd5Xe2guPw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

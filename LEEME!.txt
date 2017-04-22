@@ -1,0 +1,8 @@
+Taller Lennis - > Bases de datos e inicio de sesion con Sahred
+Taller Bases Servicio -> Usa bases de datos, servicios, muestra en un listview, muestra publicidad en el servicios
+Taller 013 - > Contiene bases de datos
+Taller 11 -> Lectura y escritura de archivos de texto
+Servicios-> Servicio con fecha que se actualiza
+Preparcial1 -> Envio de mensajes a traves de un servicio
+envio de mensajes-> envio de mensajes en android tener en cuenta permiso
+Taller Practico-> logis, registro y perfil quintero
